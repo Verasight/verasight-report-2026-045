@@ -1,5 +1,4 @@
 {
-  "schema_version": "0.1.0",
   "report_id": "2026-045",
   "repo_name": "verasight-report-2026-045",
   "title": "Verasight SPSP Omnibus Survey #2026-045",
@@ -21,7 +20,5 @@
     "identity",
     "politics",
     "society"
-  ],
-  "publication_status": "ready_for_draft",
-  "reuse_status": "reference_only_pending_verasight_license_decision"
+  ]
 }
