@@ -12,7 +12,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_beliefs_technology_health_11,4,Neither agree nor disagree,0.2842160230970765,28.42,284.21602309707646,260,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-11
 2026-045_beliefs_technology_health_11,5,Somewhat agree,0.16093356301621342,16.09,160.9335630162134,165,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-11
 2026-045_beliefs_technology_health_11,6,Agree,0.173837465618588,17.38,173.837465618588,177,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-11
-2026-045_beliefs_technology_health_11,7,Strongly agree,0.14996966691481134,15.0,149.9696669148113,151,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-11
+2026-045_beliefs_technology_health_11,7,Strongly agree,0.14996966691481134,15,149.9696669148113,151,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-11
 2026-045_beliefs_technology_health_12,1,Definitely not true,0.20195122146446548,20.2,201.95122146446545,216,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-12
 2026-045_beliefs_technology_health_12,2,Tends not to be true,0.13210028733102885,13.21,132.10028733102885,137,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-12
 2026-045_beliefs_technology_health_12,3,Unsure,0.17435357643427363,17.44,174.3535764342736,159,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-12
@@ -137,11 +137,11 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_beliefs_technology_health_29,2,Somewhat unlikely,0.047722958365006445,4.77,47.72295836500644,48,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-29
 2026-045_beliefs_technology_health_29,3,Likely,0.040705630105118816,4.07,40.705630105118814,34,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-29
 2026-045_beliefs_technology_health_29,4,Somewhat likely,0.015751166492186833,1.58,15.751166492186833,15,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-29
-2026-045_beliefs_technology_health_29,5,Very likely,0.020039066947983193,2.0,20.03906694798319,16,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-29
+2026-045_beliefs_technology_health_29,5,Very likely,0.020039066947983193,2,20.03906694798319,16,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-29
 2026-045_beliefs_technology_health_30_a,1,Not strict at all,0.16178479309520175,16.18,82.03935440547897,80,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-30_a
 2026-045_beliefs_technology_health_30_a,2,Slightly strict,0.13250194136416166,13.25,67.19033055592448,69,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-30_a
 2026-045_beliefs_technology_health_30_a,3,Moderately strict,0.2109164295747026,21.09,106.95348669534792,100,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-30_a
-2026-045_beliefs_technology_health_30_a,4,Very strict,0.07003686424944677,7.0,35.514951792951884,35,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-30_a
+2026-045_beliefs_technology_health_30_a,4,Very strict,0.07003686424944677,7,35.514951792951884,35,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-30_a
 2026-045_beliefs_technology_health_30_a,5,Extremely strict,0.059227742061351916,5.92,30.033760458242064,25,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-30_a
 2026-045_beliefs_technology_health_30_a,6,I don't use that app,0.3655322296551354,36.55,185.35752070131971,195,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-30_a
 2026-045_beliefs_technology_health_30_b,1,Not strict at all,0.14302610758050927,14.3,70.49908384392813,72,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-30_b
@@ -221,7 +221,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_beliefs_technology_health_6,3,Change the way I think about a medication,0.17778808532267007,17.78,177.78808532267004,164,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-6
 2026-045_beliefs_technology_health_6,4,Feel connected to others with my health issue,0.15649517597600962,15.65,156.4951759760096,150,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-6
 2026-045_beliefs_technology_health_6,5,Something else,0.14963649218520692,14.96,149.6364921852069,160,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-6
-2026-045_beliefs_technology_health_6,6,I do not take medication,0.11000663124538568,11.0,110.00663124538566,109,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-6
+2026-045_beliefs_technology_health_6,6,I do not take medication,0.11000663124538568,11,110.00663124538566,109,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-6
 2026-045_beliefs_technology_health_7,1,Online videos on social media (for example TikTok/Instagram),0.1235876538639759,12.36,123.58765386397589,110,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-7
 2026-045_beliefs_technology_health_7,2,Talking to friends and family,0.26862545764971446,26.86,268.6254576497144,262,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-7
 2026-045_beliefs_technology_health_7,3,Talking to my doctor or other medical professionals,0.6762113155471086,67.62,676.2113155471085,693,false,https://reports.verasight.io/reports/spsp26#q-beliefs_technology_health-7
@@ -267,7 +267,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_daily_life_13,1,"Focus, put in more cognitive effort on the task",0.6822281910481951,68.22,682.228191048189,688,false,https://reports.verasight.io/reports/spsp26#q-daily_life-13
 2026-045_daily_life_13,2,Give up before you start on the task and not devote cognitive resources,0.07445633377815353,7.45,74.45633377815287,70,false,https://reports.verasight.io/reports/spsp26#q-daily_life-13
 2026-045_daily_life_13,3,Does not impact your approach to the task,0.24331547517365146,24.33,243.3154751736493,242,false,https://reports.verasight.io/reports/spsp26#q-daily_life-13
-2026-045_daily_life_14,1,Strongly disagree,0.11998449135144539,12.0,119.98449135144432,116,false,https://reports.verasight.io/reports/spsp26#q-daily_life-14
+2026-045_daily_life_14,1,Strongly disagree,0.11998449135144539,12,119.98449135144432,116,false,https://reports.verasight.io/reports/spsp26#q-daily_life-14
 2026-045_daily_life_14,2,Disagree,0.04742221355060057,4.74,47.42221355060015,44,false,https://reports.verasight.io/reports/spsp26#q-daily_life-14
 2026-045_daily_life_14,3,Somewhat disagree,0.03140720588347311,3.14,31.407205883472827,32,false,https://reports.verasight.io/reports/spsp26#q-daily_life-14
 2026-045_daily_life_14,4,Neither disagree nor agree,0.1647301678372638,16.47,164.73016783726234,149,false,https://reports.verasight.io/reports/spsp26#q-daily_life-14
@@ -314,7 +314,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_daily_life_1_a_3,6,6,0.10638435032731793,10.64,55.33041287027092,56,false,https://reports.verasight.io/reports/spsp26#q-daily_life-1_a_3
 2026-045_daily_life_1_a_3,7,7,0.1670218373733067,16.7,86.86791987527187,88,false,https://reports.verasight.io/reports/spsp26#q-daily_life-1_a_3
 2026-045_daily_life_1_a_4,1,1,0.04029902374810566,4.03,20.95948901686312,18,false,https://reports.verasight.io/reports/spsp26#q-daily_life-1_a_4
-2026-045_daily_life_1_a_4,2,2,0.02997903391803039,3.0,15.592070817116548,13,false,https://reports.verasight.io/reports/spsp26#q-daily_life-1_a_4
+2026-045_daily_life_1_a_4,2,2,0.02997903391803039,3,15.592070817116548,13,false,https://reports.verasight.io/reports/spsp26#q-daily_life-1_a_4
 2026-045_daily_life_1_a_4,3,3,0.14543707807600914,14.54,75.64170436565648,68,false,https://reports.verasight.io/reports/spsp26#q-daily_life-1_a_4
 2026-045_daily_life_1_a_4,4,4,0.26029354768726964,26.03,135.37845948856562,141,false,https://reports.verasight.io/reports/spsp26#q-daily_life-1_a_4
 2026-045_daily_life_1_a_4,5,5,0.16949897480867038,16.95,88.15627701251408,86,false,https://reports.verasight.io/reports/spsp26#q-daily_life-1_a_4
@@ -441,7 +441,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_daily_life_31_a,3,30-60 minutes,0.14136869827084791,14.14,73.52574338417705,76,false,https://reports.verasight.io/reports/spsp26#q-daily_life-31_a
 2026-045_daily_life_31_a,4,1-2 hours,0.31603137491305805,31.6,164.36765746182027,152,false,https://reports.verasight.io/reports/spsp26#q-daily_life-31_a
 2026-045_daily_life_31_a,5,3-4 hours,0.20569946120042926,20.57,106.98412013039705,111,false,https://reports.verasight.io/reports/spsp26#q-daily_life-31_a
-2026-045_daily_life_31_a,6,5-6 hours,0.07999234930730047,8.0,41.603954905191834,45,false,https://reports.verasight.io/reports/spsp26#q-daily_life-31_a
+2026-045_daily_life_31_a,6,5-6 hours,0.07999234930730047,8,41.603954905191834,45,false,https://reports.verasight.io/reports/spsp26#q-daily_life-31_a
 2026-045_daily_life_31_a,7,7+ hours,0.1160014826012251,11.6,60.33227543469973,56,false,https://reports.verasight.io/reports/spsp26#q-daily_life-31_a
 2026-045_daily_life_31_b,1,0 hours,0.030982426029103064,3.1,14.868491802512867,13,false,https://reports.verasight.io/reports/spsp26#q-daily_life-31_b
 2026-045_daily_life_31_b,2,Less than 30 minutes,0.06621985623926403,6.62,31.778963620609073,32,false,https://reports.verasight.io/reports/spsp26#q-daily_life-31_b
@@ -449,7 +449,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_daily_life_31_b,4,1-2 hours,0.29628033626549927,29.63,142.18517771562844,149,false,https://reports.verasight.io/reports/spsp26#q-daily_life-31_b
 2026-045_daily_life_31_b,5,3-4 hours,0.2088541070974471,20.89,100.22925823763956,104,false,https://reports.verasight.io/reports/spsp26#q-daily_life-31_b
 2026-045_daily_life_31_b,6,5-6 hours,0.09092333526025434,9.09,43.63418357569328,43,false,https://reports.verasight.io/reports/spsp26#q-daily_life-31_b
-2026-045_daily_life_31_b,7,7+ hours,0.10995141375120179,11.0,52.76577413591817,50,false,https://reports.verasight.io/reports/spsp26#q-daily_life-31_b
+2026-045_daily_life_31_b,7,7+ hours,0.10995141375120179,11,52.76577413591817,50,false,https://reports.verasight.io/reports/spsp26#q-daily_life-31_b
 2026-045_daily_life_32,1,I prioritize completing tasks quickly to avoid having to think about them,0.3056876417923605,30.57,305.6876417923578,306,false,https://reports.verasight.io/reports/spsp26#q-daily_life-32
 2026-045_daily_life_32,2,I approach tasks as they are without thinking about them much,0.2825221234660928,28.25,282.5221234660903,276,false,https://reports.verasight.io/reports/spsp26#q-daily_life-32
 2026-045_daily_life_32,3,I plan ahead before starting a task,0.4902006770384368,49.02,490.20067703843245,485,false,https://reports.verasight.io/reports/spsp26#q-daily_life-32
@@ -531,11 +531,11 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_daily_life_6,7,Strongly agree,0.1557583033831805,15.58,155.7583033831791,148,false,https://reports.verasight.io/reports/spsp26#q-daily_life-6
 2026-045_daily_life_7,1,Strongly disagree,0.12357071610396055,12.36,123.57071610395946,119,false,https://reports.verasight.io/reports/spsp26#q-daily_life-7
 2026-045_daily_life_7,2,Somewhat disagree,0.11935866433422304,11.94,119.35866433422198,131,false,https://reports.verasight.io/reports/spsp26#q-daily_life-7
-2026-045_daily_life_7,3,Slightly agree,0.043253806069013696,4.33,43.253806069013315,48,false,https://reports.verasight.io/reports/spsp26#q-daily_life-7
+2026-045_daily_life_7,3,Slightly disagree,0.043253806069013696,4.33,43.253806069013315,48,false,https://reports.verasight.io/reports/spsp26#q-daily_life-7
 2026-045_daily_life_7,4,Neutral,0.24435205257766784,24.44,244.3520525776657,245,false,https://reports.verasight.io/reports/spsp26#q-daily_life-7
-2026-045_daily_life_7,5,Somewhat agree,0.24727957271139375,24.73,247.27957271139155,246,false,https://reports.verasight.io/reports/spsp26#q-daily_life-7
-2026-045_daily_life_7,6,Strongly agree,0.16356951129674324,16.36,163.56951129674178,162,false,https://reports.verasight.io/reports/spsp26#q-daily_life-7
-2026-045_daily_life_7,7,Strongly disagree,0.05861567690699795,5.86,58.61567690699743,49,false,https://reports.verasight.io/reports/spsp26#q-daily_life-7
+2026-045_daily_life_7,5,Slightly agree,0.24727957271139375,24.73,247.27957271139155,246,false,https://reports.verasight.io/reports/spsp26#q-daily_life-7
+2026-045_daily_life_7,6,Somewhat agree,0.16356951129674324,16.36,163.56951129674178,162,false,https://reports.verasight.io/reports/spsp26#q-daily_life-7
+2026-045_daily_life_7,7,Strongly agree,0.05861567690699795,5.86,58.61567690699743,49,false,https://reports.verasight.io/reports/spsp26#q-daily_life-7
 2026-045_daily_life_8,1,Strongly disagree,0.141809078506084,14.18,141.80907850608276,138,false,https://reports.verasight.io/reports/spsp26#q-daily_life-8
 2026-045_daily_life_8,2,Somewhat disagree,0.11571748541291534,11.57,115.71748541291431,124,false,https://reports.verasight.io/reports/spsp26#q-daily_life-8
 2026-045_daily_life_8,3,Slightly disagree,0.11514191926038528,11.51,115.14191926038426,125,false,https://reports.verasight.io/reports/spsp26#q-daily_life-8
@@ -591,7 +591,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_identity_16,4,Neither agree nor disagree,0.2630668242666981,26.31,263.0668242666947,257,false,https://reports.verasight.io/reports/spsp26#q-identity-16
 2026-045_identity_16,5,Somewhat agree,0.2476731175255069,24.77,247.67311752550373,257,false,https://reports.verasight.io/reports/spsp26#q-identity-16
 2026-045_identity_16,6,Agree,0.1181618391494649,11.82,118.1618391494634,115,false,https://reports.verasight.io/reports/spsp26#q-identity-16
-2026-045_identity_16,7,Strongly agree,0.0799968821855069,8.0,79.99688218550588,70,false,https://reports.verasight.io/reports/spsp26#q-identity-16
+2026-045_identity_16,7,Strongly agree,0.0799968821855069,8,79.99688218550588,70,false,https://reports.verasight.io/reports/spsp26#q-identity-16
 2026-045_identity_17,1,Always,0.03829983816579661,3.83,38.29983816579612,38,false,https://reports.verasight.io/reports/spsp26#q-identity-17
 2026-045_identity_17,2,Very often,0.22231762010559045,22.23,222.31762010558762,218,false,https://reports.verasight.io/reports/spsp26#q-identity-17
 2026-045_identity_17,3,Somewhat often,0.3629903899730811,36.3,362.99038997307645,348,false,https://reports.verasight.io/reports/spsp26#q-identity-17
@@ -602,7 +602,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_identity_18,3,Moderately important,0.17486629214982632,17.49,174.8662921498241,167,false,https://reports.verasight.io/reports/spsp26#q-identity-18
 2026-045_identity_18,4,Very important,0.36681399244088225,36.68,366.8139924408776,372,false,https://reports.verasight.io/reports/spsp26#q-identity-18
 2026-045_identity_18,5,Extremely important,0.3246885725607512,32.47,324.68857256074705,334,false,https://reports.verasight.io/reports/spsp26#q-identity-18
-2026-045_identity_19_a,1,Strongly disagree,0.010049799124820943,1.0,4.702678063305836,7,false,https://reports.verasight.io/reports/spsp26#q-identity-19_a
+2026-045_identity_19_a,1,Strongly disagree,0.010049799124820943,1,4.702678063305836,7,false,https://reports.verasight.io/reports/spsp26#q-identity-19_a
 2026-045_identity_19_a,2,Disagree,0.03662040332596274,3.66,17.13606065668356,20,false,https://reports.verasight.io/reports/spsp26#q-identity-19_a
 2026-045_identity_19_a,3,Neither disagree nor agree,0.15753959526970424,15.75,73.7186872668082,72,false,https://reports.verasight.io/reports/spsp26#q-identity-19_a
 2026-045_identity_19_a,4,Agree,0.43401960488200647,43.4,203.09405686351406,206,false,https://reports.verasight.io/reports/spsp26#q-identity-19_a
@@ -635,7 +635,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_identity_21,2,I think it would be hard to get the right nutrition,0.1258389114063083,12.58,125.83891140630669,131,false,https://reports.verasight.io/reports/spsp26#q-identity-21
 2026-045_identity_21,3,I think it would be too expensive,0.12065088109425369,12.07,120.65088109425216,117,false,https://reports.verasight.io/reports/spsp26#q-identity-21
 2026-045_identity_21,4,I think I would be too much work,0.08453767176319461,8.45,84.53767176319354,90,false,https://reports.verasight.io/reports/spsp26#q-identity-21
-2026-045_identity_21,5,I think it would be hard to eat with my friends and family,0.08997415707845885,9.0,89.97415707845771,85,false,https://reports.verasight.io/reports/spsp26#q-identity-21
+2026-045_identity_21,5,I think it would be hard to eat with my friends and family,0.08997415707845885,9,89.97415707845771,85,false,https://reports.verasight.io/reports/spsp26#q-identity-21
 2026-045_identity_21,6,I think it would go against my identity and/or culture,0.06755998082839682,6.76,67.55998082839595,59,false,https://reports.verasight.io/reports/spsp26#q-identity-21
 2026-045_identity_21,7,N/A - I already eat a fully plant-based diet,0.03826398125865124,3.83,38.26398125865075,33,false,https://reports.verasight.io/reports/spsp26#q-identity-21
 2026-045_identity_22,1,Never,0.128839111629403,12.88,128.83911162940137,122,false,https://reports.verasight.io/reports/spsp26#q-identity-22
@@ -774,7 +774,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_identity_3_b,2,It rarely matters,0.11876279002497935,11.88,63.18922477748156,61,false,https://reports.verasight.io/reports/spsp26#q-identity-3_b
 2026-045_identity_3_b,3,It matters somewhat,0.44549986326054675,44.55,237.03376278030385,238,false,https://reports.verasight.io/reports/spsp26#q-identity-3_b
 2026-045_identity_3_b,4,It matters significantly,0.31595345843971917,31.6,168.10698115437413,171,false,https://reports.verasight.io/reports/spsp26#q-identity-3_b
-2026-045_identity_3_b,5,It's the only thing that matters,0.030002685003230417,3.0,15.96330303623171,15,false,https://reports.verasight.io/reports/spsp26#q-identity-3_b
+2026-045_identity_3_b,5,It's the only thing that matters,0.030002685003230417,3,15.96330303623171,15,false,https://reports.verasight.io/reports/spsp26#q-identity-3_b
 2026-045_identity_4,1,Not at all,0.11611061736119568,11.61,116.1106173611942,114,false,https://reports.verasight.io/reports/spsp26#q-identity-4
 2026-045_identity_4,2,Very little,0.11564676021324975,11.56,115.64676021324829,111,false,https://reports.verasight.io/reports/spsp26#q-identity-4
 2026-045_identity_4,3,A little,0.1553203782910357,15.53,155.32037829103373,154,false,https://reports.verasight.io/reports/spsp26#q-identity-4
@@ -797,7 +797,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_identity_6_a,6,More motivated than I am,0.03972350066586439,3.97,18.588116325400044,15,false,https://reports.verasight.io/reports/spsp26#q-identity-6_a
 2026-045_identity_6_a,7,Much more motivated than I am,0.01623868025146096,1.62,7.598687739636165,8,false,https://reports.verasight.io/reports/spsp26#q-identity-6_a
 2026-045_identity_6_b,1,Much less motivated than I am,0.01603214185906459,1.6,8.530101182229107,6,false,https://reports.verasight.io/reports/spsp26#q-identity-6_b
-2026-045_identity_6_b,2,Less motivated than I am,0.010006898166403246,1.0,5.324295071118028,5,false,https://reports.verasight.io/reports/spsp26#q-identity-6_b
+2026-045_identity_6_b,2,Less motivated than I am,0.010006898166403246,1,5.324295071118028,5,false,https://reports.verasight.io/reports/spsp26#q-identity-6_b
 2026-045_identity_6_b,3,Slightly less motivated than I am,0.04802520375982147,4.8,25.552409089795123,26,false,https://reports.verasight.io/reports/spsp26#q-identity-6_b
 2026-045_identity_6_b,4,About as motivated as I am,0.39084610885135546,39.08,207.95455058286993,205,false,https://reports.verasight.io/reports/spsp26#q-identity-6_b
 2026-045_identity_6_b,5,Slightly more motivated than I am,0.2794702711138617,27.95,148.69564597062092,142,false,https://reports.verasight.io/reports/spsp26#q-identity-6_b
@@ -920,7 +920,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_politics_1_b,7,Strongly agree,0.09865574764039609,9.87,47.30986781500012,40,false,https://reports.verasight.io/reports/spsp26#q-politics-1_b
 2026-045_politics_2,1,1 - Not at all stereotypical,0.15694181859882628,15.69,156.94181859882352,156,false,https://reports.verasight.io/reports/spsp26#q-politics-2
 2026-045_politics_2,2,2,0.05596790255126618,5.6,55.9679025512652,55,false,https://reports.verasight.io/reports/spsp26#q-politics-2
-2026-045_politics_2,3,3,0.09004527141300583,9.0,90.04527141300426,80,false,https://reports.verasight.io/reports/spsp26#q-politics-2
+2026-045_politics_2,3,3,0.09004527141300583,9,90.04527141300426,80,false,https://reports.verasight.io/reports/spsp26#q-politics-2
 2026-045_politics_2,4,4,0.21895589551566996,21.9,218.95589551566613,203,false,https://reports.verasight.io/reports/spsp26#q-politics-2
 2026-045_politics_2,5,5,0.193528314002398,19.35,193.5283140023946,193,false,https://reports.verasight.io/reports/spsp26#q-politics-2
 2026-045_politics_2,6,6,0.10205588005357766,10.21,102.05588005357588,116,false,https://reports.verasight.io/reports/spsp26#q-politics-2
@@ -935,7 +935,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_politics_21,1,Extremely connected,0.18584410456924394,18.58,185.8441045692407,187,false,https://reports.verasight.io/reports/spsp26#q-politics-21
 2026-045_politics_21,2,Very connected,0.316311060856159,31.63,316.31106085615346,328,false,https://reports.verasight.io/reports/spsp26#q-politics-21
 2026-045_politics_21,3,Somewhat connected,0.39789072015832133,39.79,397.89072015831437,398,false,https://reports.verasight.io/reports/spsp26#q-politics-21
-2026-045_politics_21,4,Not at all connected,0.0999541144162758,10.0,99.95411441627405,87,false,https://reports.verasight.io/reports/spsp26#q-politics-21
+2026-045_politics_21,4,Not at all connected,0.0999541144162758,10,99.95411441627405,87,false,https://reports.verasight.io/reports/spsp26#q-politics-21
 2026-045_politics_22,1,Extremely negative,0.3443950669125533,34.44,344.39506691254724,357,false,https://reports.verasight.io/reports/spsp26#q-politics-22
 2026-045_politics_22,2,Negative,0.1362921539898093,13.63,136.2921539898069,133,false,https://reports.verasight.io/reports/spsp26#q-politics-22
 2026-045_politics_22,3,Slightly negative,0.0743667857073716,7.44,74.3667857073703,73,false,https://reports.verasight.io/reports/spsp26#q-politics-22
@@ -1040,7 +1040,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_politics_34,3,There are an equal number of both,0.22385070848370628,22.39,223.85070848370236,208,false,https://reports.verasight.io/reports/spsp26#q-politics-34
 2026-045_politics_35,1,I was never planning to visit Mexico and still am not,0.60227481353464,60.23,602.2748135346294,610,false,https://reports.verasight.io/reports/spsp26#q-politics-35
 2026-045_politics_35,2,"I was considering visiting Mexico, but now I am less likely to go",0.17871864434183113,17.87,178.718644341828,184,false,https://reports.verasight.io/reports/spsp26#q-politics-35
-2026-045_politics_35,3,"I was considering visiting Mexico, and my plans have not changed",0.11997636740969644,12.0,119.97636740969435,115,false,https://reports.verasight.io/reports/spsp26#q-politics-35
+2026-045_politics_35,3,"I was considering visiting Mexico, and my plans have not changed",0.11997636740969644,12,119.97636740969435,115,false,https://reports.verasight.io/reports/spsp26#q-politics-35
 2026-045_politics_35,4,I am not familiar with recent cartel-related reports in Mexico,0.0990301747138325,9.9,99.03017471383077,91,false,https://reports.verasight.io/reports/spsp26#q-politics-35
 2026-045_politics_36_a,1,I feel more irritable or angry,0.22523114241871844,22.52,117.2226803624408,113,false,https://reports.verasight.io/reports/spsp26#q-politics-36_a
 2026-045_politics_36_a,2,I feel anxious or tense,0.2547254674872189,25.47,132.5731501193416,134,false,https://reports.verasight.io/reports/spsp26#q-politics-36_a
@@ -1066,14 +1066,14 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_politics_38,1,Strongly disagree,0.027100364914973547,2.71,27.10036491497307,30,false,https://reports.verasight.io/reports/spsp26#q-politics-38
 2026-045_politics_38,2,Disagree,0.022559240349000052,2.26,22.55924034899966,19,false,https://reports.verasight.io/reports/spsp26#q-politics-38
 2026-045_politics_38,3,Somewhat disagree,0.024747957940591633,2.47,24.7479579405912,26,false,https://reports.verasight.io/reports/spsp26#q-politics-38
-2026-045_politics_38,4,Neither agree nor disagree,0.17997182429647995,18.0,179.9718242964768,161,false,https://reports.verasight.io/reports/spsp26#q-politics-38
-2026-045_politics_38,5,Somewhat agree,0.1499894051780442,15.0,149.98940517804158,142,false,https://reports.verasight.io/reports/spsp26#q-politics-38
+2026-045_politics_38,4,Neither agree nor disagree,0.17997182429647995,18,179.9718242964768,161,false,https://reports.verasight.io/reports/spsp26#q-politics-38
+2026-045_politics_38,5,Somewhat agree,0.1499894051780442,15,149.98940517804158,142,false,https://reports.verasight.io/reports/spsp26#q-politics-38
 2026-045_politics_38,6,Agree,0.2347157129051155,23.47,234.7157129051114,247,false,https://reports.verasight.io/reports/spsp26#q-politics-38
 2026-045_politics_38,7,Strongly agree,0.3609154944157952,36.09,360.9154944157889,375,false,https://reports.verasight.io/reports/spsp26#q-politics-38
 2026-045_politics_4,1,Strongly disagree,0.5881799228899403,58.82,588.1799228899299,585,false,https://reports.verasight.io/reports/spsp26#q-politics-4
 2026-045_politics_4,2,Disagree,0.14472181086511396,14.47,144.72181086511142,150,false,https://reports.verasight.io/reports/spsp26#q-politics-4
 2026-045_politics_4,3,Slightly disagree,0.044922069292690096,4.49,44.92206929268931,46,false,https://reports.verasight.io/reports/spsp26#q-politics-4
-2026-045_politics_4,4,Neither agree nor disagree,0.1199767706042543,12.0,119.9767706042522,113,false,https://reports.verasight.io/reports/spsp26#q-politics-4
+2026-045_politics_4,4,Neither agree nor disagree,0.1199767706042543,12,119.9767706042522,113,false,https://reports.verasight.io/reports/spsp26#q-politics-4
 2026-045_politics_4,5,Slightly agree,0.04063581466246435,4.06,40.63581466246364,42,false,https://reports.verasight.io/reports/spsp26#q-politics-4
 2026-045_politics_4,6,Agree,0.03477491013480135,3.48,34.77491013480074,37,false,https://reports.verasight.io/reports/spsp26#q-politics-4
 2026-045_politics_4,7,Strong agree,0.02678870155073578,2.68,26.78870155073531,27,false,https://reports.verasight.io/reports/spsp26#q-politics-4
@@ -1195,7 +1195,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_society_20,1,Strongly disagree,0.06130450142210945,6.13,61.30450142211007,56,false,https://reports.verasight.io/reports/spsp26#q-society-20
 2026-045_society_20,2,Disagree,0.1696128385261057,16.96,169.61283852610742,170,false,https://reports.verasight.io/reports/spsp26#q-society-20
 2026-045_society_20,3,Somewhat disagree,0.26218069279360834,26.22,262.180692793611,268,false,https://reports.verasight.io/reports/spsp26#q-society-20
-2026-045_society_20,4,Somewhat agree,0.3100062449720676,31.0,310.0062449720707,303,false,https://reports.verasight.io/reports/spsp26#q-society-20
+2026-045_society_20,4,Somewhat agree,0.3100062449720676,31,310.0062449720707,303,false,https://reports.verasight.io/reports/spsp26#q-society-20
 2026-045_society_20,5,Agree,0.15358972396051887,15.36,153.58972396052042,158,false,https://reports.verasight.io/reports/spsp26#q-society-20
 2026-045_society_20,6,Strongly agree,0.0433059983255901,4.33,43.30599832559054,45,false,https://reports.verasight.io/reports/spsp26#q-society-20
 2026-045_society_21_a,1,Strongly disagree,0.23243266505364418,23.24,115.31062993514621,124,false,https://reports.verasight.io/reports/spsp26#q-society-21_a
@@ -1214,7 +1214,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_society_22,4,I neither agree nor disagree,0.19189450388184043,19.19,191.89450388184238,165,false,https://reports.verasight.io/reports/spsp26#q-society-22
 2026-045_society_22,5,I somewhat agree,0.24826318804824832,24.83,248.26318804825084,249,false,https://reports.verasight.io/reports/spsp26#q-society-22
 2026-045_society_22,6,I agree,0.24288047323287504,24.29,242.8804732328775,258,false,https://reports.verasight.io/reports/spsp26#q-society-22
-2026-045_society_22,7,I completely agree,0.21998638156882427,22.0,219.9863815688265,229,false,https://reports.verasight.io/reports/spsp26#q-society-22
+2026-045_society_22,7,I completely agree,0.21998638156882427,22,219.9863815688265,229,false,https://reports.verasight.io/reports/spsp26#q-society-22
 2026-045_society_23,1,I completely disagree,0.027757032821841634,2.78,27.757032821841914,23,false,https://reports.verasight.io/reports/spsp26#q-society-23
 2026-045_society_23,2,I disagree,0.03179118397060974,3.18,31.791183970610064,34,false,https://reports.verasight.io/reports/spsp26#q-society-23
 2026-045_society_23,3,I somewhat disagree,0.048566387041041055,4.86,48.566387041041544,48,false,https://reports.verasight.io/reports/spsp26#q-society-23
@@ -1237,7 +1237,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_society_26,2,Disagree,0.026849350617106953,2.68,26.849350617107223,23,false,https://reports.verasight.io/reports/spsp26#q-society-26
 2026-045_society_26,3,Somewhat disagree,0.06342253828558933,6.34,63.42253828558997,65,false,https://reports.verasight.io/reports/spsp26#q-society-26
 2026-045_society_26,4,Neutral,0.23670446674614354,23.67,236.70446674614593,194,false,https://reports.verasight.io/reports/spsp26#q-society-26
-2026-045_society_26,5,Somewhat agree,0.26995084399347397,27.0,269.9508439934767,288,false,https://reports.verasight.io/reports/spsp26#q-society-26
+2026-045_society_26,5,Somewhat agree,0.26995084399347397,27,269.9508439934767,288,false,https://reports.verasight.io/reports/spsp26#q-society-26
 2026-045_society_26,6,Agree,0.27868708708334583,27.87,278.6870870833487,299,false,https://reports.verasight.io/reports/spsp26#q-society-26
 2026-045_society_26,7,Strongly agree,0.1211182733737738,12.11,121.11827337377503,128,false,https://reports.verasight.io/reports/spsp26#q-society-26
 2026-045_society_27,1,Strongly disagree,0.05170513640594095,5.17,51.705136405941474,43,false,https://reports.verasight.io/reports/spsp26#q-society-27
@@ -1269,7 +1269,7 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2026-045_society_3,3,Somewhat bad,0.29335967589624246,29.34,293.35967589624545,314,false,https://reports.verasight.io/reports/spsp26#q-society-3
 2026-045_society_3,4,Neither,0.08623618652615615,8.62,86.23618652615703,86,false,https://reports.verasight.io/reports/spsp26#q-society-3
 2026-045_society_3,5,Somewhat good,0.13679669045521775,13.68,136.79669045521914,139,false,https://reports.verasight.io/reports/spsp26#q-society-3
-2026-045_society_3,6,Good,0.060043806141372336,6.0,60.04380614137294,57,false,https://reports.verasight.io/reports/spsp26#q-society-3
+2026-045_society_3,6,Good,0.060043806141372336,6,60.04380614137294,57,false,https://reports.verasight.io/reports/spsp26#q-society-3
 2026-045_society_3,7,Very good,0.019028481556378013,1.9,19.028481556378207,20,false,https://reports.verasight.io/reports/spsp26#q-society-3
 2026-045_society_30,1,Extremely unhappy,0.03041135682971049,3.04,30.411356829710797,30,false,https://reports.verasight.io/reports/spsp26#q-society-30
 2026-045_society_30,2,Fairly unhappy,0.049887296286935494,4.99,49.887296286936,54,false,https://reports.verasight.io/reports/spsp26#q-society-30

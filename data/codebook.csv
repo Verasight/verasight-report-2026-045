@@ -531,11 +531,11 @@ question_id,option_id,option_label,is_missing
 2026-045_daily_life_6,7,Strongly agree,false
 2026-045_daily_life_7,1,Strongly disagree,false
 2026-045_daily_life_7,2,Somewhat disagree,false
-2026-045_daily_life_7,3,Slightly agree,false
+2026-045_daily_life_7,3,Slightly disagree,false
 2026-045_daily_life_7,4,Neutral,false
-2026-045_daily_life_7,5,Somewhat agree,false
-2026-045_daily_life_7,6,Strongly agree,false
-2026-045_daily_life_7,7,Strongly disagree,false
+2026-045_daily_life_7,5,Slightly agree,false
+2026-045_daily_life_7,6,Somewhat agree,false
+2026-045_daily_life_7,7,Strongly agree,false
 2026-045_daily_life_8,1,Strongly disagree,false
 2026-045_daily_life_8,2,Somewhat disagree,false
 2026-045_daily_life_8,3,Slightly disagree,false
