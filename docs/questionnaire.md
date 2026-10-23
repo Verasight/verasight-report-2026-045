@@ -115,8 +115,7 @@ Filter: If group Is Equal to a
 
 ## 2026-045_beliefs_technology_health_23_b
 
-On average, how many hours do you spend on social media per day according to your screen time phone stats in your phone settings? (EX.
-Instagram, Facebook, TikTok, Snapchat, etc.)
+On average, how many hours do you spend on social media per day according to your screen time phone stats in your phone settings? (EX. Instagram, Facebook, TikTok, Snapchat, etc.)
 
 Filter: If group Is Equal to b
 
